@@ -2,10 +2,6 @@
 
 This is a simple Python program that simulates rolling a standard six-sided die using the command line interface (CLI). It includes a fun animated text effect to build suspense before revealing the result.
 
-
-https://github.com/user-attachments/assets/b2da0eb0-284c-41d9-b80a-bc7fd884f0be
-
-
 ---
 
 ## 🧩 Features
@@ -26,3 +22,6 @@ https://github.com/user-attachments/assets/b2da0eb0-284c-41d9-b80a-bc7fd884f0be
 
    ```bash
    python dice_roller.py
+   ```
+   https://github.com/user-attachments/assets/b2da0eb0-284c-41d9-b80a-bc7fd884f0be
+
